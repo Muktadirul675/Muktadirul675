@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm MD Muktadirul Islam Mahi 😀  
-- 🤗 I'm a high school student.
+- 🤗 I'm a high college student.
 - 🔭 Currently working on BOC and TMC web project.
 - 🌱 Currently learning Python advanced.
 - 👯 Looking to collaborate on clubs/organizations project
