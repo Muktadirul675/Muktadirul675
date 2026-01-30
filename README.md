@@ -27,7 +27,7 @@ I specialize in **full-stack JavaScript and Python development**, building scala
 
 Here are a few highlights:
 
-- **LightRec** – Lightweight modular recommendation system ([GitHub](https://github.com/Muktadirul675/lightrec))  
+- **LightRec** – Lightweight modular recommendation system ([GitHub](https://github.com/Muktadirul675/light-rec))  
 - **Custom E-commerce Platforms** – Node.js + Next.js stores with plugin architecture  
 - **Blog and Social Platforms** – Django + Next.js with advanced feeds, likes, comments, and reputation systems  
 - **GIS Remote Team Workspace** – Tool for managing remote teams in geospatial projects  
@@ -47,10 +47,9 @@ Here are a few highlights:
 ## 📫 Contact Me
 
 - GitHub: [Muktadirul675](https://github.com/Muktadirul675)  
-- Email: mahi.dev@example.com  
-- LinkedIn: [Your LinkedIn Profile]  
-- Portfolio: [Your Personal Website]  
-
+- Email: muktadirul.05@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/muktadirul-islam-mahi-37bab1311
+- Portfolio: https://muktadirul.vercel.app
 ---
 
 ## ⚡ Fun Fact
